@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "wwwroot/uswds/scss/uswds.css",
+    "inputFile": "wwwroot/uswds/scss/uswds.scss"
+  },
+  {
+    "outputFile": "wwwroot/uswds/scss/core/placeholders/_all.css",
+    "inputFile": "wwwroot/uswds/scss/core/placeholders/_all.scss"
+  }
+]
